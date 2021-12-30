@@ -1,0 +1,43 @@
+INSERT INTO 教练 VALUES('意大利','卡纳瓦罗','广州恒大'
+);
+INSERT INTO 教练 VALUES('克罗地亚','莱奥','上海上港
+');
+INSERT INTO 教练 VALUES('韩国','崔康熙','上海申花
+');
+INSERT INTO 教练 VALUES('克罗地亚','比利奇','北京国安
+');
+INSERT INTO 教练 VALUES('中国','沈祥福','天津天海
+');
+INSERT INTO 教练 VALUES('中国','王宝山','天津泰达
+');
+INSERT INTO 教练 VALUES('西班牙','哈尔维','河南建业
+');
+INSERT INTO 教练 VALUES('中国','郝伟','山东鲁能泰山
+');
+INSERT INTO 教练 VALUES('埃丁.泰尔齐奇','多特蒙德
+');
+INSERT INTO 教练 VALUES('德国','弗里克','拜仁慕尼黑
+');
+INSERT INTO 教练 VALUES('德国','图赫尔','切尔西
+');
+INSERT INTO 教练 VALUES('德国','克洛普','利物浦
+');
+INSERT INTO 教练 VALUES('西班牙','瓜迪奥拉','曼彻斯特城
+');
+INSERT INTO 教练 VALUES('挪威','索尔斯克亚','曼彻斯特联队
+');
+INSERT INTO 教练 VALUES('西班牙','阿尔特塔','阿森纳
+');
+INSERT INTO 教练 VALUES('阿根廷','波切蒂诺','巴黎圣日耳曼
+');
+INSERT INTO 教练 VALUES('意大利','斯泰法诺.皮奥利','AC米兰
+');
+INSERT INTO 教练 VALUES('意大利','孔蒂','国际米兰
+');
+INSERT INTO 教练 VALUES('意大利','皮尔洛','尤文图斯
+');
+INSERT INTO 教练 VALUES('荷兰','科曼','巴塞罗那
+');
+INSERT INTO 教练 VALUES('法国','齐达内','皇家马德里
+');
+INSERT INTO 教练 VALUES('阿根廷','西蒙尼','马德里竞技');

@@ -1,0 +1,17 @@
+INSERT INTO 足协 VALUES('中国足球协会','CFA','中国北京','陈戌源
+');
+INSERT INTO 足协 VALUES('英格兰足球总会','FA','英国伦敦','凯特.汀斯利
+');
+INSERT INTO 足协 VALUES('德国足球协会','DFB','德国','凯勒
+');
+INSERT INTO 足协 VALUES('法国足球协会','FFF','法国巴黎','勒格拉埃
+');
+INSERT INTO 足协 VALUES('意大利足球协会','FIGC','意大利','Giancarlo.Abete
+');
+INSERT INTO 足协 VALUES('西班牙皇家足球协会','RSFF','西班牙马德里','安赫尔·维拉
+');
+INSERT INTO 足协 VALUES('欧洲足球协会联盟','UEFA','瑞士尼翁','亚历山大.切费林
+');
+INSERT INTO 足协 VALUES('亚洲足球联合会','AFC','马来西亚吉隆坡','萨尔曼
+');
+INSERT INTO 足协 VALUES('国际足球联合会','FIFA','瑞士苏黎世','詹尼.因凡蒂诺');
